@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'users',
     'expenses',
     'categories',
+    'goals'
 ]
 
 REST_FRAMEWORK = {
